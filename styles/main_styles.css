@@ -378,7 +378,7 @@ section
 .top_bar_social ul li a i
 {
 	font-size: 12px;
-	color: rgba(0,0,0,0.4);
+	color: red;
 	padding: 6px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -388,7 +388,7 @@ section
 }
 .top_bar_social ul li a i:hover
 {
-	color: rgba(0,0,0,1);
+	color: red;
 }
 
 /*********************************
@@ -444,10 +444,10 @@ section
 .logo_text
 {
 	font-family: 'Poppins', serif;
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 0.75;
-	color: #2e21df;
+	color: red;
 	vertical-align: middle;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -951,7 +951,7 @@ section
 {
 	width: 225px;
 	height: 43px;
-	background: #2e21df;
+	background: red;
 	text-align: center;
 	border-radius: 3px;
 	margin-left: auto;
@@ -1330,7 +1330,7 @@ section
 .instructor_social ul li a i
 {
 	font-size: 14px;
-	color: #4f47e2;
+	color:red;
 	padding: 6px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -1393,7 +1393,7 @@ section
 	background: transparent;
 	border: none;
 	outline: none;
-	border-bottom: solid 1px #b2b2b2;
+	border-bottom: solid 1px red;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1403,7 +1403,7 @@ section
 .form_input:hover,
 .form_input:focus
 {
-	border-bottom: solid 2px #2e21df;
+	border-bottom: solid 2px red;
 }
 .form_input::-webkit-input-placeholder
 {
@@ -1490,7 +1490,7 @@ section
 {
 	width: 100%;
 	height: 43px;
-	background: #2e21df;
+	background: red;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 0.3em;
@@ -1651,7 +1651,7 @@ section
 {
 	width: 61px;
 	height: 25px;
-	background: #2e21df;
+	background: red;
 	border-radius: 3px;
 	font-size: 12px;
 	text-align: center;
@@ -1717,7 +1717,7 @@ section
 	width: 100%;
 	height: 100%;
 	content: '';
-	background: rgba(46, 33, 223, 0.7);
+	background: red;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
