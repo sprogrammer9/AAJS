@@ -1803,7 +1803,7 @@ section
 }
 .blog_right_category a:hover
 {
-	color: #2e21df;
+	color: red;
 }
 .blog_right_title
 {
@@ -1812,7 +1812,7 @@ section
 .blog_right_title a
 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 30px;
+	font-size: 20px;
 	color: #000000;
 	font-weight: 700;
 	-webkit-transition: all 200ms ease;
@@ -1823,7 +1823,7 @@ section
 }
 .blog_right_title a:hover
 {
-	color: #2e21df;
+	color: red;
 }
 .blog_right_text
 {
@@ -1843,7 +1843,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 500;
-	color: #2e21df;
+	color: red;
 }
 .read_more img
 {

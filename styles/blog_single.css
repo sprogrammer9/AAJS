@@ -373,7 +373,7 @@ section
 .top_bar_social ul li a i
 {
 	font-size: 12px;
-	color: rgba(0,0,0,0.4);
+	color: red;
 	padding: 6px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -383,7 +383,7 @@ section
 }
 .top_bar_social ul li a i:hover
 {
-	color: rgba(0,0,0,1);
+	color: red;
 }
 
 /*********************************
@@ -439,10 +439,10 @@ section
 .logo_text
 {
 	font-family: 'Poppins', serif;
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 0.75;
-	color: #2e21df;
+	color: red;
 	vertical-align: middle;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -1041,7 +1041,7 @@ section
 {
 	font-size: 30px;
 	line-height: 1.6;
-	color: #2e21df;
+	color: red;
 	padding-left: 37px;
 	padding-right: 60px;
 	margin-top: 46px;
@@ -1196,7 +1196,7 @@ section
 }
 .blog_post_share ul li a i
 {
-	color: #584de5;
+	color: red;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1276,7 +1276,7 @@ section
 .blog_post_title a
 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 30px;
+	font-size: 20px;
 	color: #000000;
 	font-weight: 700;
 	-webkit-transition: all 200ms ease;
@@ -1287,7 +1287,7 @@ section
 }
 .blog_post_title a:hover
 {
-	color: #2e21df;
+	color: red;
 }
 .blog_post_text
 {
